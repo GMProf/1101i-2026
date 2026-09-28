@@ -1,0 +1,33 @@
+Trabalho de Pesquisa – Web Design I
+Tema: HTML e CSS: como os sites são construídos e apresentados na Web
+Objetivo: pesquisar e compreender os principais conceitos relacionados à criação de páginas Web utilizando HTML e CSS, identificando a função de cada tecnologia e observando sua aplicação em sites reais.
+Formato da entrega: apresentação em PowerPoint, com mínimo de 10 slides. O trabalho deverá conter textos explicativos, imagens, exemplos e referências das fontes pesquisadas.
+Estrutura obrigatória
+1.	Capa
+Nome da escola, disciplina Web Design I, título do trabalho, nome dos integrantes, turma e data.
+2.	O que é um site?
+Explique o que é um site, uma página Web e uma homepage. Inclua imagens de exemplos.
+3.	Como surgiu a Web?
+Pesquise resumidamente a origem da World Wide Web, quem foi Tim Berners-Lee e qual era o objetivo inicial da Web. Inclua pelo menos uma imagem relacionada à história da Web.
+4.	O que é HTML?
+Explique o significado da sigla HTML, para que ele serve e qual sua importância na construção de uma página.
+5.	Principais elementos HTML
+Pesquise pelo menos 10 elementos/tags HTML. Para cada um, informe o nome, sua função e apresente um pequeno exemplo de código.
+6.	Estrutura básica de uma página HTML
+Apresente e explique uma estrutura contendo <!DOCTYPE html>, <html>, <head>, <title> e <body>.
+7.	O que é CSS?
+Explique o significado da sigla CSS, para que serve e qual a diferença entre HTML e CSS.
+8.	O que podemos fazer com CSS?
+Pesquise exemplos de utilização do CSS: cores, fontes, tamanhos, bordas, espaçamento, alinhamento, fundos etc. Inclua imagens mostrando exemplos visuais.
+9.	Antes e depois do CSS
+Encontre ou produza um exemplo de uma página HTML sem estilização e compare com uma página utilizando CSS. Explique as principais diferenças percebidas.
+10.	Análise de um site real
+Escolha um site conhecido e identifique elementos que provavelmente utilizam HTML e características visuais controladas pelo CSS. Inclua uma captura de tela do site e marque ou indique pelo menos 5 elementos observados.
+11.	Design responsivo
+Pesquise o que significa um site responsivo e por que um site precisa funcionar corretamente em computador, tablet e celular. Inclua imagens demonstrando essa diferença.
+12.	Conclusão do grupo
+Respondam com as próprias palavras: Qual é a importância do HTML e do CSS para o desenvolvimento Web? O que mais chamou a atenção do grupo durante a pesquisa?
+13.	Fontes da pesquisa
+Apresente os sites, livros, vídeos ou outros materiais utilizados. Não vale escrever apenas "Google": devem informar as páginas realmente consultadas.
+Regras: mínimo de 10 slides, embora a estrutura acima naturalmente possa chegar a 13 ou mais. O PowerPoint deve possuir imagens relacionadas ao conteúdo. Evitem slides formados apenas por grandes blocos de texto. O grupo deve pesquisar e escrever as explicações com suas próprias palavras. Exemplos de código devem estar legíveis e acompanhados de uma explicação.
+
